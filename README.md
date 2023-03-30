@@ -2,8 +2,8 @@
 
 ## Introduction: 
 Linkedin-to-go is a portable device equipped with NFC technology that allows users to easily connect with other LinkedIn users by simply tapping the device. The device is smaller than a typical tablet, but larger than a standard business card, measuring 750 pixels in width and 1334 pixels in height. The device enables users to manage their LinkedIn profile, view recent connections, navigate to other profiles, and share files with each other. This project focuses on the software and web development aspect of the device, using HTML5, CSS3, JS, NODEjs, expressjs, and MONGODB. 
-The goal of this device is: 
-The success metrics for the device is:
+* The goal of this device is: 
+* The success metrics for the device is defined by the number of devices sold and the no. of tabs per devices generated
 
 ## Motivation: (Background)
 

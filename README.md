@@ -7,7 +7,7 @@ Followig are the pages of LinkedIn to-go and their key features:
 
 (1) Sign-in Page Features: 
 * The sign-in page follows the typical LinkedIn design, providing a familiar experience for users. 
-* Users can sign in using their email and password, and have the option to show their password by clicking on the show button. 
+* Users can sign in using their email and password, and have the option to see their password by clicking on the show button. 
 * Alternatively, users can sign in using their Google or Apple ID credentials.
 * After signing in, the user is redirected to their home/profile page.
 
@@ -54,6 +54,21 @@ This navigator stays in all the four pages.
 * Browse or look through a list/gallery of user's own data 
 * Option to add documents in PDF or DOCX form, URLs, images, music, and videos
 * Options for private and public sharing
+
+## Motivation: 
+
+I was eagerly anticipating the Grace Hopper Celebration 2022, a conference where women in technology come together to network, learn, and grow. As a software engineer, I was excited to connect with other professionals in my field, exchange ideas, and make meaningful connections. However, I soon realized that simply carrying a hard copy of my resume and cover letter would not be enough to stand out and be remembered by those I met beyond the conference.
+
+ I faced several challenges. 
+Firstly, who has the time to read a complete resume or cover letter during a busy conference? 
+Secondly, how would anyone be able to navigate through my web development work with a hard copy? I wanted people to be able to visit my Github profile or portfolio website, but that was not possible with a traditional approach.
+ Lastly, I wasn't just looking for job opportunities; I wanted to connect with like-minded women and share my story. Why would my fellow companions want to read my resume when they would rather connect with me on social media? 
+
+As a software engineer, I felt like I would miss out on opportunities of not being able to share my work in a more interactive way. That's when I realized I needed to carry a business card that was easy to carry, quick to read, and scannable for connectivity. However, I wasn't a businesswoman, and I wasn't selling a product; I was selling myself. I was my own product. I decided to create a connection card that would serve as a mini LinkedIn profile. A card that would feature a photo of me, a brief description of my work, and contact information. It would allow people to scan a QR code and instantly connect with me on LinkedIn. Hence, the name "LinkedIn to-go." 
+
+Unfortunately, just before the conference, I accidentally broke my phone screen and was unable to navigate my phone. This was a significant setback, but LinkedIn to-go ended up being a lifesaver. Everyone I met at GHC loved the idea and design of the card. I was able to connect with many people through the QR code scanning feature, and the positive feedback was overwhelming. One of the most memorable moments was when a product manager from LinkedIn approached me and appreciated my creativity and vision for the card. 
+
+Another attendee, a Disney employee, was critical of the sustainability of the physical card and pushed me to take the concept to a software level. I took this feedback to heart and decided to work on this project when I returned home. Creating LinkedIn to-go and sharing it at GHC was a reminder of the power of creativity and innovation in networking. It taught me that a simple idea, with the right execution, can have a significant impact. The feedback I received was inspiring and motivating, and it pushed me to take this idea to the next level. I am excited to see how LinkedIn to-go can change the game for networking, and I am grateful for the opportunity to have shared it with so many amazing women in tech at GHC.
 
 
 

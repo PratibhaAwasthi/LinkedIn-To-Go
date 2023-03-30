@@ -2,14 +2,16 @@
 
 ## Introduction: 
 Linkedin-to-go is a portable device equipped with NFC technology that allows users to easily connect with other LinkedIn users by simply tapping the device. The device is smaller than a typical tablet, but larger than a standard business card, measuring 750 pixels in width and 1334 pixels in height. The device enables users to manage their LinkedIn profile, view recent connections, navigate to other profiles, and share files with each other. This project focuses on the software and web development aspect of the device, using HTML5, CSS3, JS, NODEjs, expressjs, and MONGODB. 
+The goal of this device is: 
+The success metrics for the device is:
 
-## Motivation: 
+## Motivation: (Background)
 
 I was eagerly anticipating the Grace Hopper Celebration 2022, a conference where women in technology come together to network, learn, and grow. As a software engineer, I was excited to connect with other professionals in my field, exchange ideas, and make meaningful connections. However, I soon realized that simply carrying a hard copy of my resume and cover letter would not be enough to stand out and be remembered by those I met beyond the conference.
 
-I faced several challenges. 
-* Firstly, who has the time to read a complete resume or cover letter during a busy conference? 
-* Secondly, how would anyone be able to navigate through my web development work with a hard copy? I wanted people to be able to visit my Github profile or portfolio website, but that was not possible with a traditional approach.
+I faced several challenges. (re-work)
+* Firstly, the time constraint for every individual to go through the resume and connect (who has the time to read a complete resume or cover letter during a busy conference?) 
+* Secondly, inability to follow the link on the resume and connect in less than 1 minute (how would anyone be able to navigate through my web development work with a hard copy? I wanted people to be able to visit my Github profile or portfolio website, but that was not possible with a traditional approach.
 * Lastly, I wasn't just looking for job opportunities; I wanted to connect with like-minded women and share my story. Why would my fellow companions want to read my resume when they would rather connect with me on social media? 
 
 As a software engineer, I felt like I would miss out on opportunities of not being able to share my work in a more interactive way. That's when I realized I needed to carry a business card that was easy to carry, quick to read, and scannable for connectivity. However, I wasn't a businesswoman, and I wasn't selling a product; I was selling myself. I was my own product. I decided to create a connection card that would serve as a mini LinkedIn profile. A card that would feature a photo of me, a brief description of my work, and contact information. It would allow people to scan a QR code and instantly connect with me on LinkedIn. Hence, the name "LinkedIn to-go." 

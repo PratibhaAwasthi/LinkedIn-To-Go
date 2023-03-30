@@ -3,6 +3,34 @@
 ## Introduction: 
 Linkedin-to-go is a portable device equipped with NFC technology that allows users to easily connect with other LinkedIn users by simply tapping the device. The device is smaller than a typical tablet, but larger than a standard business card, measuring 750 pixels in width and 1334 pixels in height. The device enables users to manage their LinkedIn profile, view recent connections, navigate to other profiles, and share files with each other. This project focuses on the software and web development aspect of the device, using HTML5, CSS3, JS, NODEjs, expressjs, and MONGODB. 
 
+## Motivation: 
+
+I was eagerly anticipating the Grace Hopper Celebration 2022, a conference where women in technology come together to network, learn, and grow. As a software engineer, I was excited to connect with other professionals in my field, exchange ideas, and make meaningful connections. However, I soon realized that simply carrying a hard copy of my resume and cover letter would not be enough to stand out and be remembered by those I met beyond the conference.
+
+ I faced several challenges. 
+Firstly, who has the time to read a complete resume or cover letter during a busy conference? 
+Secondly, how would anyone be able to navigate through my web development work with a hard copy? I wanted people to be able to visit my Github profile or portfolio website, but that was not possible with a traditional approach.
+ Lastly, I wasn't just looking for job opportunities; I wanted to connect with like-minded women and share my story. Why would my fellow companions want to read my resume when they would rather connect with me on social media? 
+
+As a software engineer, I felt like I would miss out on opportunities of not being able to share my work in a more interactive way. That's when I realized I needed to carry a business card that was easy to carry, quick to read, and scannable for connectivity. However, I wasn't a businesswoman, and I wasn't selling a product; I was selling myself. I was my own product. I decided to create a connection card that would serve as a mini LinkedIn profile. A card that would feature a photo of me, a brief description of my work, and contact information. It would allow people to scan a QR code and instantly connect with me on LinkedIn. Hence, the name "LinkedIn to-go." 
+
+Unfortunately, just before the conference, I accidentally broke my phone screen and was unable to navigate my phone. This was a significant setback, but LinkedIn to-go ended up being a lifesaver. Everyone I met at GHC loved the idea and design of the card. I was able to connect with many people through the QR code scanning feature, and the positive feedback was overwhelming. One of the most memorable moments was when a product manager from LinkedIn approached me and appreciated my creativity and vision for the card. 
+
+Another attendee, a Disney employee, was critical of the sustainability of the physical card and pushed me to take the concept to a software level. I took this feedback to heart and decided to work on this project when I returned home. Creating LinkedIn to-go and sharing it at GHC was a reminder of the power of creativity and innovation in networking. It taught me that a simple idea, with the right execution, can have a significant impact. The feedback I received was inspiring and motivating, and it pushed me to take this idea to the next level. I am excited to see how LinkedIn to-go can change the game for networking, and I am grateful for the opportunity to have shared it with so many amazing women in tech at GHC.
+
+## Unique Value Proposition
+
+The market-fit of LinkedIn to go goes beyond providing a portable device for connecting with others on LinkedIn. While some may argue that this solution is similar to what most mobile phones already do, the actual problem isn't about portability but rather lies elsewhere.
+
+To understand the issue at hand, let's ask ourselves a question: Why do we damage our phones so frequently? The answer is simple: we use our phones for everything. With multiple features and capabilities, our phones can be used for both work and leisure purposes. While this may seem promising, it can also create confusion for the user about the phone's purpose. They haven't yet decided if their phone is meant for personal or professional use, and this can lead to inefficiency and a lack of focus.
+
+This is where LinkedIn to go comes in and solves the issue by providing a device solely dedicated to the user's professional life. The device is small and portable, allowing the user to carry it at all times and only pull it out for special occasions or specific reasons, reducing the confusion between personal and professional use.
+
+Additionally, LinkedIn is a social media platform for professionals in various fields, including musicians, actors, and artists. In recent trends, many people from non-technical fields are becoming active on LinkedIn to manage their professional networking and career development. LinkedIn to go aims to serve all kinds of people, including those in creative industries who may struggle to showcase their work in social situations. For example, imagine a musician attending a party to connect with different directors and artists. LinkedIn to go lets the user share their work with their connections, thereby solving this issue too.
+
+In summary, LinkedIn to go offers a unique solution to the confusion created by using mobile phones for both personal and professional purposes. It provides a dedicated device for managing one's professional networking on LinkedIn, and its small size and portability make it an ideal solution for professionals on the go.
+
+## Key Features
 Followig are the pages of LinkedIn to-go and their key features:
 
 (1) Sign-in Page Features: 
@@ -55,32 +83,6 @@ This navigator stays in all the four pages.
 * Option to add documents in PDF or DOCX form, URLs, images, music, and videos
 * Options for private and public sharing
 
-## Motivation: 
-
-I was eagerly anticipating the Grace Hopper Celebration 2022, a conference where women in technology come together to network, learn, and grow. As a software engineer, I was excited to connect with other professionals in my field, exchange ideas, and make meaningful connections. However, I soon realized that simply carrying a hard copy of my resume and cover letter would not be enough to stand out and be remembered by those I met beyond the conference.
-
- I faced several challenges. 
-Firstly, who has the time to read a complete resume or cover letter during a busy conference? 
-Secondly, how would anyone be able to navigate through my web development work with a hard copy? I wanted people to be able to visit my Github profile or portfolio website, but that was not possible with a traditional approach.
- Lastly, I wasn't just looking for job opportunities; I wanted to connect with like-minded women and share my story. Why would my fellow companions want to read my resume when they would rather connect with me on social media? 
-
-As a software engineer, I felt like I would miss out on opportunities of not being able to share my work in a more interactive way. That's when I realized I needed to carry a business card that was easy to carry, quick to read, and scannable for connectivity. However, I wasn't a businesswoman, and I wasn't selling a product; I was selling myself. I was my own product. I decided to create a connection card that would serve as a mini LinkedIn profile. A card that would feature a photo of me, a brief description of my work, and contact information. It would allow people to scan a QR code and instantly connect with me on LinkedIn. Hence, the name "LinkedIn to-go." 
-
-Unfortunately, just before the conference, I accidentally broke my phone screen and was unable to navigate my phone. This was a significant setback, but LinkedIn to-go ended up being a lifesaver. Everyone I met at GHC loved the idea and design of the card. I was able to connect with many people through the QR code scanning feature, and the positive feedback was overwhelming. One of the most memorable moments was when a product manager from LinkedIn approached me and appreciated my creativity and vision for the card. 
-
-Another attendee, a Disney employee, was critical of the sustainability of the physical card and pushed me to take the concept to a software level. I took this feedback to heart and decided to work on this project when I returned home. Creating LinkedIn to-go and sharing it at GHC was a reminder of the power of creativity and innovation in networking. It taught me that a simple idea, with the right execution, can have a significant impact. The feedback I received was inspiring and motivating, and it pushed me to take this idea to the next level. I am excited to see how LinkedIn to-go can change the game for networking, and I am grateful for the opportunity to have shared it with so many amazing women in tech at GHC.
-
-## Unique Value Proposition
-
-The market-fit of LinkedIn to go goes beyond providing a portable device for connecting with others on LinkedIn. While some may argue that this solution is similar to what most mobile phones already do, the actual problem isn't about portability but rather lies elsewhere.
-
-To understand the issue at hand, let's ask ourselves a question: Why do we damage our phones so frequently? The answer is simple: we use our phones for everything. With multiple features and capabilities, our phones can be used for both work and leisure purposes. While this may seem promising, it can also create confusion for the user about the phone's purpose. They haven't yet decided if their phone is meant for personal or professional use, and this can lead to inefficiency and a lack of focus.
-
-This is where LinkedIn to go comes in and solves the issue by providing a device solely dedicated to the user's professional life. The device is small and portable, allowing the user to carry it at all times and only pull it out for special occasions or specific reasons, reducing the confusion between personal and professional use.
-
-Additionally, LinkedIn is a social media platform for professionals in various fields, including musicians, actors, and artists. In recent trends, many people from non-technical fields are becoming active on LinkedIn to manage their professional networking and career development. LinkedIn to go aims to serve all kinds of people, including those in creative industries who may struggle to showcase their work in social situations. For example, imagine a musician attending a party to connect with different directors and artists. LinkedIn to go lets the user share their work with their connections, thereby solving this issue too.
-
-In summary, LinkedIn to go offers a unique solution to the confusion created by using mobile phones for both personal and professional purposes. It provides a dedicated device for managing one's professional networking on LinkedIn, and its small size and portability make it an ideal solution for professionals on the go.
  
 ## Future Directions for LinkedIn-to-go
 
